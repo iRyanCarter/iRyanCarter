@@ -17,7 +17,7 @@ I build small, practical tools that make everyday work simpler: command-line uti
 
 ### 📌 Projects
 - **[mdlinkcheck](https://github.com/iRyanCarter/mdlinkcheck)**: a fast CLI that finds broken links in Markdown files
-- **[world-clock](https://github.com/iRyanCarter/world-clock)**: a clean, dependency-free world clock web app
+- **[world-clock](https://github.com/iRyanCarter/world-clock)**: a clean, dependency-free world clock web app ([live demo](https://iryancarter.github.io/world-clock/))
 
 ### 📫 Contact
 Email: [ryan66carter@gmail.com](mailto:ryan66carter@gmail.com)
